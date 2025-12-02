@@ -21,25 +21,28 @@
 
 ### 💻 Langages de programmation
 
-<img src="https://skillicons.dev/icons?i=php,js,python,java,cs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,js,php&theme=dark" />
 
 ### 🎨 Front-end
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,vue&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
 
-### ⚙️ Back-end & Frameworks
+### ⚙️ Back-end & Framework
 
-<img src="https://skillicons.dev/icons?i=symfony,laravel,nodejs,express,django,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=symfony&theme=dark" />
 
 ### 🗄️ Bases de données
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
 
-### 🔧 Outils & Environnement
+### 🔧 Outils
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,nginx,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
+
 
 ## 🏆 Projets en vedette
 
