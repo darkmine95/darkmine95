@@ -37,12 +37,13 @@
 <br/>
 <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
 
-### 🔧 Outils
+### 🔧 Outils & IDE
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,phpstorm&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/SceneBuilder-FF6C37?style=for-the-badge&logo=gluon&logoColor=white" alt="SceneBuilder" />
 
 </div>
-
 
 ## 🏆 Projets en vedette
 
