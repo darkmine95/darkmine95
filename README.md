@@ -41,17 +41,6 @@
 
 </div>
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=tokyonight&hide_border=true&locale=fr)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_USERNAME&theme=tokyonight&hide_border=true&locale=fr)
-
-</div>
 
 ## 🏆 Projets en vedette
 
